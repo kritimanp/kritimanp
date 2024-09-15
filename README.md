@@ -1,4 +1,4 @@
-Hi, I’m @kritimanp
+Hi, I’m @kritimanp<p>
 I’m interested in web-development, UX/UI designing and video editing
 I’m currently learning javascript
 Reach out to me on
